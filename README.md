@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desing/desktop-design.jpg)
+![Desktop Design](./desing/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CodinGitHub/FrontendMentor-Challenge-7)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenge-7.vercel.app/)
+- Solution URL: [GitHub](https://github.com/CodinGitHub/FrontendMentor-Challenge-7)
+- Live Site URL: [Vercel](https://frontend-mentor-challenge-7.vercel.app/)
 
 ## My process
 
